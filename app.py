@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, roc_curve, precision_recall_curve
 from sklearn.metrics import precision_score,recall_score
 def main():
-    st.title('Binary Classification Web App')
+    st.title('Binary Classification Web App') 
 
 
 
